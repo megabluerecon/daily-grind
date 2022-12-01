@@ -10,6 +10,7 @@ body {
 	padding:20px;
 	min-height:100%; /* keeps from getting too large on wide screen */
 	}
+	
 img.flexible {
 	float:right;
 	display:inline-block;
